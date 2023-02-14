@@ -1,0 +1,11 @@
+state: enabled
+email: admin.grav.nl@kereborn.nl
+fullname: 'Koen Daamen'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$2TIBKWpcf3moAnbo4U1zoOIFilztk.YxF6D2s1FFfF2Z.2JRes1SC

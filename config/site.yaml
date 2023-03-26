@@ -1,7 +1,41 @@
-title: Grav
-author:
-  name: Joe Bloggs
-  email: 'joe@example.com'
+title:       InterMediator
+description: A Grav theme - Medium inspired
+taxonomies: [ tag, featured ]
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+  description: Grav is an easy to use, yet powerful, open source flat-file CMS
 
+logo:        desktop.jpg
+
+branding:
+  image:
+    desktop: desktop.jpg
+    mobile:  mobile.jpg
+
+emblem:
+  image:
+    desktop: desktop.jpg
+    mobile:  mobile.jpg
+
+date_long:   'd F Y'
+date_short:  'Y-m-d'
+
+author:
+  name:  Rinske Hamers
+  email: rinske@arttobelieve.nl
+  image: /user/images/avatars/rinske.jpg
+  bio:   LARP writer & player
+
+social:
+  - icon:        facebook
+    url:         https://facebook.com/???
+    desc:        Connect with me Facebook
+    share_url:   //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link:  "&amp;u="
+
+  - icon: discord
+    url:  //discord.com
+    desc: Connect with me Discord
+    share_url:
+    share_title:
+    share_link:

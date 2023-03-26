@@ -1,10 +1,5 @@
 ---
-title: Typography
-dominant:
-    color:
-        set: hsl(17,45%,40%)
-    contrast:
-        set: var(--primary)
+title: sub2
 ---
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
@@ -157,3 +152,4 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 
 !!!! This is a success notification
 ```
+

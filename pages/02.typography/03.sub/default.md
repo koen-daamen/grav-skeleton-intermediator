@@ -1,14 +1,6 @@
 ---
-title: Home
+title: sub
 body_classes: title-center title-h1h2
-branding:
-    hide: true
-dominant:
-    color:
-        set: var(--primary)
-    contrast:
-        set: hsl(17,45%,40%)
-cover: tools.jpg
 ---
 
 # Say Hello to Grav!
